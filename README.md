@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my brand-new AI/ML-related portfolio. 
+Welcome to my brand-new AI/ML-related portfolio! :) 
 
 ## [1. Cinematic Storyboards](Cinematic-Storyboards-with-SDXL.md)
 The project I'm most proud of is the pipeline for creation of [Cinematic Storyboards (open in Colab)](https://colab.research.google.com/drive/18adY8WtK91mCePVD3BJv2kmPQmunPqf0?usp=sharing). This project presents Cinematic Storyboards - a new way to create storyboards for the film and video industry which has the potential to make them more authentic to the true concept of the authors and to dramatically cut time and cost for their making. All that is made possible by utilising the benefits of the Stable Diffusion XL model (and with a little help from the HuggingFace ecosystem).
