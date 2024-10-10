@@ -18,7 +18,7 @@ The goal of this project is to estimate the Average Treatment Effect of diets on
 
 Furthermore, the we implement Counterfactual Analysis in order to calculate how the weights of participants would have change if they would have chosen a different diet.
 
-## [4. Analysis of Stock-Price Time Series via Granger Causality](Stock-Price_Analysis-Granger-Causality.ipynb)
+## [4. Analysis of Stock-Price Time Series via Granger Causality](Stock-Price-Analysis-Granger-Causality.ipynb)
 Granger causality occurs when events from a particular time series influence events from another time series happening at later points in time. It was developed by Clive Granger in 1969 as a tool to analyse cases and perform predictions in the field of economics. Nowadays, Granger causality is used in other fields, too - such as neuroscience.
 
 Let's take a look at one example. As copper is typically used for the production of wires and connectors in mobile phones, let's investigate whether the movements of the stock price of copper Granger-cause the change in the stock price of famous smartphone producer Apple.
